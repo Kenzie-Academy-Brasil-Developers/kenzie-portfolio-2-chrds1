@@ -1,9 +1,9 @@
 export const userData = {
   nameUser: "Carlos Henrique",
   githubUser: "chrds1",
-  linkedinUser: "scarlos-henrique-silva-rodrigues-445847ba",
+  linkedinUser: "carloshenriquesrodrigues/",
   whatsappNumber: "+5563981013246",
   emailUser: "henriquee_rodriguees@hotmail.com",
-  instagramUser: "carloshrds",
+  instagramUser: "carloshrds/",
   facebookUser: "henrique.rodrigues.969300",
 };
